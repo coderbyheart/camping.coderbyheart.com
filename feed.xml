@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>where we blog about our camping trips</title>
+    <description></description>
+    <link>https://camping.cto.hiv//</link>
+    <atom:link href="https://camping.cto.hiv//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 30 Aug 2015 22:20:57 +0200</pubDate>
+    <lastBuildDate>Sun, 30 Aug 2015 22:20:57 +0200</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>1. Tag: Weimar</title>
+        <description>&lt;p&gt;Nach einem langen Stau und ermüdenden Stau haben wir uns entschieden, schon in Weimar die erste Nacht auf einem kleinen 
+&lt;a href=&quot;http://camping-weimar.de/&quot;&gt;Camping-Platz mit Schwimmbad&lt;/a&gt; zu verbringen. Hier kostet uns die Übernachtung 19 €. Der Platz 
+ist abgelegen im Wald, sehr ruhig und hat ein eigenes Schwimmbad. Am Kiosk gibt es&lt;/p&gt;
+
+&lt;p&gt;Abends essen wir in Weimar im &lt;a href=&quot;http://tara-weimar.de/&quot;&gt;tara&lt;/a&gt; indisch, super lecker. Weimar ist eine sehr schöne, 
+mittelgroße Stadt mit einer charmanten Altstadt und lohnt einen Spaziergang.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 30 Aug 2015 20:51:01 +0200</pubDate>
+        <link>https://camping.cto.hiv//polen2015/2015/08/30/weimar.html</link>
+        <guid isPermaLink="true">https://camping.cto.hiv//polen2015/2015/08/30/weimar.html</guid>
+        
+        
+        <category>polen2015</category>
+        
+      </item>
+    
+  </channel>
+</rss>
