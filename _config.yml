@@ -1,0 +1,10 @@
+title: where we blog about our camping trips
+email: m@cto.hiv
+description: > # Markus and Tanja blog about their camping trips
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://camping.cto.hiv/"
+twitter_username: coderbyheart
+github_username:  coderbyheart
+
+# Build settings
+markdown: kramdown
