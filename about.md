@@ -4,4 +4,4 @@ title: Impressum
 permalink: /imprint/
 ---
 
-See [cto.hiv](https://cto.hiv/).
+Siehe [cto.hiv](https://cto.hiv/).

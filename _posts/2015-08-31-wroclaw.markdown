@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2. Tag: Breslau"
+title:  "2. Tag: Wrocław (Breslau)"
 date:   2015-08-31 22:58:00
 categories: polen2015
 geo: 51.076048, 17.089354
