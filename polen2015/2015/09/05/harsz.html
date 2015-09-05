@@ -6,11 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Markus und Tanja bloggen über ihren Camping-Urlaub</title>
-  <meta name="description" content="">
+  <title>7. Tag: Harsz</title>
+  <meta name="description" content="Heute Morgen haben wir den Campingplatz gewechselt, da uns die sanitären Anlagen in Nowe Guty nicht gefallen haben. Jetzt stehen wir nur 20km von der russisc...">
 
   <link rel="stylesheet" href="/camping.cto.hiv/css/main.css">
-  <link rel="canonical" href="https://coderbyheart.github.io/camping.cto.hiv/">
+  <link rel="canonical" href="https://coderbyheart.github.io/camping.cto.hiv/polen2015/2015/09/05/harsz.html">
   <link rel="alternate" type="application/rss+xml" title="Markus und Tanja bloggen über ihren Camping-Urlaub" href="https://coderbyheart.github.io/camping.cto.hiv/feed.xml" />
   <link href='//api.mapbox.com/mapbox.js/v2.2.1/mapbox.css' rel='stylesheet' />
   <script src='//api.mapbox.com/mapbox.js/v2.2.1/mapbox.js'></script>
@@ -56,71 +56,62 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="home">
+        <div class="post">
 
-  <h1 class="page-heading">Posts</h1>
+  <header class="post-header">
+    <h1 class="post-title">7. Tag: Harsz</h1>
+    <p class="post-meta">Sep 5, 2015</p>
+  </header>
 
-  <ul class="post-list">
+  <article class="post-content">
+    <p>Heute Morgen haben wir den Campingplatz gewechselt, da uns die sanitären Anlagen in Nowe Guty nicht gefallen haben. 
+Jetzt stehen wir nur 20km von der russischen Grenze entfernt in der Nähe von Harsz auf dem <a href="http://www.masuren-campingplatz.de/">Camp Park Sonata</a>.</p>
+
+<p><img src="https://pbs.twimg.com/media/COJm8fSWUAAiHu8.jpg" alt="Camp Park Sonata" /></p>
+
+<p>Hier sind wir nicht mehr allein, sondern teilen uns das riesige Gelände mit neun anderen Campern; bis auf einen alles
+Deutsche. Sogar ein weiteres Fahrzeug mit OF-Kennzeichen ist da, allerdings besetzt mit einer Familie aus München, die
+sich das Fahrzeug von den in Offenbach lebenden Eltern der Frau geliehen hat.</p>
+
+<p>Nach dem Aufbau des Vorzelts und einem kleinen Kaffee-Brunch bei dem wir das unliebsame Toast mit Milch und Ei zu 
+<em>Arme Ritter</em> verarbeitet haben. Nach der Stärkung gong es unter die Dusche, die hier sehr schön groß, sauber und heiß
+ sind.</p>
+
+<p>Anschließend war etwas Bewegung angesagt. Wir haben uns zu Fuß auf den Weg in den nächsten Ort 
+gemacht, sind aber nach gut drei Kilometern wieder umgedreht; zu Fuß auf polnischen Landstraßen ist kein Spaß, es sind
+sehr viele Raser unterwegs.</p>
+
+<p>Zurück auf dem Campingplatz war es aber auch schon Zeit für das Abendessen. Direkt auf dem Campingplatz kocht die Frau
+des Besitzer fantastisch leckere Hausmannskost, heute Abend gab es Rote Bete Suppe, Gebratenes Sauerkraut mit Fleisch, Pilzen
+ und Bratkartoffeln und zum Nachtisch Pfannkuchen mit Quark und Pflaumenmus, sowie hausgebrannter Vodka.</p>
+
+<p><img src="https://pbs.twimg.com/media/COKD1PZWIAAS0ZB.jpg" alt="Rote Bete Suppe" /></p>
+
+<p><img src="https://pbs.twimg.com/media/COKFAmqUwAEuQuJ.jpg" alt="Gebratenes Sauerkraut mit Fleisch, Pilzen und Bratkartoffeln" /></p>
+
+<p><img src="https://pbs.twimg.com/media/COKFB3HU8AAWwJY.jpg" alt="Pfannkuchen mit Quark und Pflaumenmus, sowie hausgebrannter Vodka" /></p>
+
+<p>Und jetzt ab ins Bett!</p>
+
+
     
-      <li>
-        <span class="post-meta">Sep 5, 2015</span>
-
-        <h2>
-          <a class="post-link" href="/camping.cto.hiv/polen2015/2015/09/05/harsz.html">7. Tag: Harsz</a>
-        </h2>
-      </li>
+    <div id="map"></div>
+    <script>
+      L.mapbox.accessToken = 'pk.eyJ1IjoiY29kZXJieWhlYXJ0IiwiYSI6Ijg1YWYxODEwODMzMTExMjk2NTYyNWIxNzgyNDc4NDI5In0.ba1fA9we0blXiNJcqNKAxQ';
+      var geo = '54.143797, 21.754940'.split(',').map(function(c) { return parseFloat(c.trim()); });
+      var map = L.mapbox.map('map', 'mapbox.outdoors')
+              .setView([geo[0], geo[1]], 9);
+      // L.marker is a low-level marker constructor in Leaflet.
+      L.marker([geo[0], geo[1]], {
+        icon: L.mapbox.marker.icon({
+          'marker-size': 'large',
+          'marker-symbol': 'campsite',
+          'marker-color': '#fa0'
+        })
+      }).addTo(map);
+    </script>
     
-      <li>
-        <span class="post-meta">Sep 4, 2015</span>
-
-        <h2>
-          <a class="post-link" href="/camping.cto.hiv/polen2015/2015/09/04/mikolajki.html">6. Tag: Mikołajki</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">Sep 3, 2015</span>
-
-        <h2>
-          <a class="post-link" href="/camping.cto.hiv/polen2015/2015/09/03/nowe-guty.html">5. Tag: Nowe Guty</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">Sep 2, 2015</span>
-
-        <h2>
-          <a class="post-link" href="/camping.cto.hiv/polen2015/2015/09/02/oswiecim.html">4. Tag: Oświęcim (Auschwitz)</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">Sep 1, 2015</span>
-
-        <h2>
-          <a class="post-link" href="/camping.cto.hiv/polen2015/2015/09/01/krakow.html">3. Tag: Kraków (Krakau)</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">Sep 1, 2015</span>
-
-        <h2>
-          <a class="post-link" href="/camping.cto.hiv/polen2015/2015/09/01/wroclaw.html">2. Tag: Wrocław (Breslau)</a>
-        </h2>
-      </li>
-    
-      <li>
-        <span class="post-meta">Aug 30, 2015</span>
-
-        <h2>
-          <a class="post-link" href="/camping.cto.hiv/polen2015/2015/08/30/weimar.html">1. Tag: Weimar</a>
-        </h2>
-      </li>
-    
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="/camping.cto.hiv/feed.xml">via RSS</a></p>
+  </article>
 
 </div>
 
