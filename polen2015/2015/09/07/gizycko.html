@@ -82,17 +82,51 @@ Hmmmm.</p>
     <div id="map"></div>
     <script>
       L.mapbox.accessToken = 'pk.eyJ1IjoiY29kZXJieWhlYXJ0IiwiYSI6Ijg1YWYxODEwODMzMTExMjk2NTYyNWIxNzgyNDc4NDI5In0.ba1fA9we0blXiNJcqNKAxQ';
-      var geo = '54.036031, 21.760726'.split(',').map(function(c) { return parseFloat(c.trim()); });
+      var geo = '54.143797, 21.754940'.split(',').map(function(c) { return parseFloat(c.trim()); });
       var map = L.mapbox.map('map', 'mapbox.outdoors')
               .setView([geo[0], geo[1]], 9);
-      // L.marker is a low-level marker constructor in Leaflet.
-      L.marker([geo[0], geo[1]], {
-        icon: L.mapbox.marker.icon({
-          'marker-size': 'large',
-          'marker-symbol': 'campsite',
-          'marker-color': '#fa0'
-        })
-      }).addTo(map);
+
+      var myLayer = L.mapbox.featureLayer().addTo(map);
+
+      var geojson = {
+        type: 'FeatureCollection',
+        features: [{
+          type: 'Feature',
+          properties: {
+            title: 'Campingplatz',
+            'marker-color': '#fa0',
+            'marker-size': 'large',
+            'marker-symbol': 'campsite'
+          },
+          geometry: {
+            type: 'Point',
+            coordinates: [geo[1], geo[0]]
+          }
+        }]
+      };
+      
+        geojson.features.push({
+                  type: 'Feature',
+                  properties: {
+                    title: 'Giżycko',
+                    'marker-color': '#2883FF',
+                    'marker-size': 'large',
+                    'marker-symbol': 'town-hall'
+                  },
+                  geometry: {
+                    type: 'Point',
+                    coordinates: [21.760726, 54.036031]
+                  }
+        });
+      
+      myLayer.setGeoJSON(geojson);
+      myLayer.on('mouseover', function(e) {
+        e.layer.openPopup();
+      });
+      myLayer.on('mouseout', function(e) {
+        e.layer.closePopup();
+      });
+
     </script>
     
   </article>

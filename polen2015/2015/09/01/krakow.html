@@ -93,14 +93,76 @@ vorbereitet.</p>
       var geo = '50.046799, 19.880610'.split(',').map(function(c) { return parseFloat(c.trim()); });
       var map = L.mapbox.map('map', 'mapbox.outdoors')
               .setView([geo[0], geo[1]], 9);
-      // L.marker is a low-level marker constructor in Leaflet.
-      L.marker([geo[0], geo[1]], {
-        icon: L.mapbox.marker.icon({
-          'marker-size': 'large',
-          'marker-symbol': 'campsite',
-          'marker-color': '#fa0'
-        })
-      }).addTo(map);
+
+      var myLayer = L.mapbox.featureLayer().addTo(map);
+
+      var geojson = {
+        type: 'FeatureCollection',
+        features: [{
+          type: 'Feature',
+          properties: {
+            title: 'Campingplatz',
+            'marker-color': '#fa0',
+            'marker-size': 'large',
+            'marker-symbol': 'campsite'
+          },
+          geometry: {
+            type: 'Point',
+            coordinates: [geo[1], geo[0]]
+          }
+        }]
+      };
+      
+        geojson.features.push({
+                  type: 'Feature',
+                  properties: {
+                    title: 'Kraków (Krakau)',
+                    'marker-color': '#2883FF',
+                    'marker-size': 'large',
+                    'marker-symbol': 'town-hall'
+                  },
+                  geometry: {
+                    type: 'Point',
+                    coordinates: [19.937661, 50.061286]
+                  }
+        });
+      
+        geojson.features.push({
+                  type: 'Feature',
+                  properties: {
+                    title: 'Tiffy Icecream',
+                    'marker-color': '#2883FF',
+                    'marker-size': 'large',
+                    'marker-symbol': 'restaurant'
+                  },
+                  geometry: {
+                    type: 'Point',
+                    coordinates: [19.936193, 50.064067]
+                  }
+        });
+      
+        geojson.features.push({
+                  type: 'Feature',
+                  properties: {
+                    title: 'Gospoda Koko',
+                    'marker-color': '#2883FF',
+                    'marker-size': 'large',
+                    'marker-symbol': 'restaurant'
+                  },
+                  geometry: {
+                    type: 'Point',
+                    coordinates: [19.935283, 50.060316]
+                  }
+        });
+      
+      myLayer.setGeoJSON(geojson);
+      myLayer.on('mouseover', function(e) {
+        e.layer.openPopup();
+      });
+      myLayer.on('mouseout', function(e) {
+        e.layer.closePopup();
+      });
+
     </script>
     
   </article>

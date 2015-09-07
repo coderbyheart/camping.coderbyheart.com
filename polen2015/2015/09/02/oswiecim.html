@@ -89,17 +89,65 @@ Die Hefeteilchen die es dort in einer SB-Theke für 1,39 PLN gibt, sind super le
     <div id="map"></div>
     <script>
       L.mapbox.accessToken = 'pk.eyJ1IjoiY29kZXJieWhlYXJ0IiwiYSI6Ijg1YWYxODEwODMzMTExMjk2NTYyNWIxNzgyNDc4NDI5In0.ba1fA9we0blXiNJcqNKAxQ';
-      var geo = '50.034420, 19.181153'.split(',').map(function(c) { return parseFloat(c.trim()); });
+      var geo = '50.046799, 19.880610'.split(',').map(function(c) { return parseFloat(c.trim()); });
       var map = L.mapbox.map('map', 'mapbox.outdoors')
               .setView([geo[0], geo[1]], 9);
-      // L.marker is a low-level marker constructor in Leaflet.
-      L.marker([geo[0], geo[1]], {
-        icon: L.mapbox.marker.icon({
-          'marker-size': 'large',
-          'marker-symbol': 'campsite',
-          'marker-color': '#fa0'
-        })
-      }).addTo(map);
+
+      var myLayer = L.mapbox.featureLayer().addTo(map);
+
+      var geojson = {
+        type: 'FeatureCollection',
+        features: [{
+          type: 'Feature',
+          properties: {
+            title: 'Campingplatz',
+            'marker-color': '#fa0',
+            'marker-size': 'large',
+            'marker-symbol': 'campsite'
+          },
+          geometry: {
+            type: 'Point',
+            coordinates: [geo[1], geo[0]]
+          }
+        }]
+      };
+      
+        geojson.features.push({
+                  type: 'Feature',
+                  properties: {
+                    title: 'Auschwitz I',
+                    'marker-color': '#2883FF',
+                    'marker-size': 'large',
+                    'marker-symbol': 'museum'
+                  },
+                  geometry: {
+                    type: 'Point',
+                    coordinates: [19.202987, 50.02703]
+                  }
+        });
+      
+        geojson.features.push({
+                  type: 'Feature',
+                  properties: {
+                    title: 'Auschwitz II (Birkenau)',
+                    'marker-color': '#2883FF',
+                    'marker-size': 'large',
+                    'marker-symbol': 'museum'
+                  },
+                  geometry: {
+                    type: 'Point',
+                    coordinates: [19.181153, 50.03442]
+                  }
+        });
+      
+      myLayer.setGeoJSON(geojson);
+      myLayer.on('mouseover', function(e) {
+        e.layer.openPopup();
+      });
+      myLayer.on('mouseout', function(e) {
+        e.layer.closePopup();
+      });
+
     </script>
     
   </article>
