@@ -4,6 +4,15 @@ title:  "6. Tag: Mikołajki"
 date:   2015-09-04 20:48:00
 categories: polen2015
 geo: 53.766479, 21.847875
+markers:
+ - name: Mikołajki
+   lat: 53.801007
+   lng: 21.570304
+   symbol: town-hall
+ - name: Zajazd Wiejski
+   lat: 53.693291
+   lng: 21.813405
+   symbol: restaurant
 ---
 
 Bereits gestern Nacht hat es angefangen zu regnen und heute regnet es weiter. So beginnen wir den Tag spät, mit 

@@ -3,7 +3,16 @@ layout: post
 title:  "4. Tag: Oświęcim (Auschwitz)"
 date:   2015-09-02 21:00:00
 categories: polen2015
-geo: 50.034420, 19.181153
+geo: 50.046799, 19.880610
+markers:
+ - name: Auschwitz I
+   lat: 50.027030
+   lng: 19.202987
+   symbol: museum
+ - name: Auschwitz II (Birkenau)
+   lat: 50.034420
+   lng: 19.181153
+   symbol: museum
 ---
 
 Heute haben wir das ehemalige Konzentrationslager Auschwitz I und das weit größere Auschwitz II (Birkenau) besucht. In

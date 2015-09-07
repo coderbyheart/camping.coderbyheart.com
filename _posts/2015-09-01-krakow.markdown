@@ -4,6 +4,19 @@ title:  "3. Tag: Kraków (Krakau)"
 date:   2015-09-01 20:11:00
 categories: polen2015
 geo: 50.046799, 19.880610
+markers:
+ - name: Kraków (Krakau)
+   lat: 50.061286
+   lng: 19.937661
+   symbol: town-hall
+ - name: Tiffy Icecream
+   lat: 50.064067
+   lng: 19.936193
+   symbol: restaurant
+ - name: Gospoda Koko
+   lat: 50.060316
+   lng: 19.935283
+   symbol: restaurant
 ---
 
 Heute Morgen haben wir uns auf den Weg über die A4 nach Krakau gemacht. Auf dieser Strecke viel zum ersten Mal Maut an,

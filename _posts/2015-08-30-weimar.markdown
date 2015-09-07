@@ -4,6 +4,11 @@ title:  "1. Tag: Weimar"
 date:   2015-08-30 18:51:01
 categories: polen2015
 geo: 51.035579, 11.287406
+markers:
+ - name: tara
+   lat: 50.979766
+   lng: 11.322838
+   symbol: restaurant
 ---
 
 Nach einem langen und ermüdenden Stau haben wir uns entschieden, schon in Weimar die erste Nacht auf einem kleinen 

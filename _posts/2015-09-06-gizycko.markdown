@@ -3,7 +3,12 @@ layout: post
 title:  "8. Tag: Giżycko"
 date:   2015-09-06 22:05:00
 categories: polen2015
-geo: 54.036031, 21.760726
+geo: 54.143797, 21.754940
+markers:
+ - name: Giżycko
+   lat: 54.036031
+   lng: 21.760726
+   symbol: town-hall
 ---
 
 Heute haben wir uns eine der größten Städte in den Masuren angesehen, Giżycko verfügt über einen Hafen, Strandbuden

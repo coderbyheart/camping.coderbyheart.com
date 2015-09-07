@@ -4,8 +4,18 @@ title:  "2. Tag: Wrocław (Breslau)"
 date:   2015-08-31 22:58:00
 categories: polen2015
 geo: 51.076048, 17.089354
+markers:
+ - name: Kurna Chata (Alte Hütte)
+   lat: 51.113140
+   lng: 17.031769
+   symbol: restaurant
 ---
 
-Heute sind wir in Polen angekommen, und zwar in Breslau. Hier sind wir bei bei [Camping Wroclaw](http://www.camping-wroclaw.pl) im Garten hinter einem Wohnhaus in einem Wohngebiet untergekommen. In Breslau haben wir die sehr schöne und riesige, zum Teil an Nizza und Wien erinnernde, Altstadt besichtigt und dann in der [Alten Hütte](http://www.kurnachata.pl) unseren ersten [Berg Piroggen](https://twitter.com/coderbyheart/status/638441715456704513) bekommen …
+Heute sind wir in Polen angekommen, und zwar in Breslau. Hier sind wir bei bei 
+[Camping Wroclaw](http://www.camping-wroclaw.pl) im Garten hinter einem Wohnhaus in einem Wohngebiet untergekommen. 
+In Breslau haben wir die sehr schöne und riesige, zum Teil an Nizza und Wien erinnernde, Altstadt besichtigt und dann 
+in der [Alten Hütte](http://www.kurnachata.pl) unseren ersten 
+[Berg Piroggen](https://twitter.com/coderbyheart/status/638441715456704513) bekommen …
 
-Dank Orange PL sind wir auch wieder online, für 20 PLN kann man eine Sim-Karte kaufen und kann damit direk lossurfen. Der Preis von etwa 1 € pro GB Datentransfer ist dabei für deutsche Verhältnisse unfassbar billig.
+Dank Orange PL sind wir auch wieder online, für 20 PLN kann man eine Sim-Karte kaufen und kann damit direk lossurfen. 
+Der Preis von etwa 1 € pro GB Datentransfer ist dabei für deutsche Verhältnisse unfassbar billig.
