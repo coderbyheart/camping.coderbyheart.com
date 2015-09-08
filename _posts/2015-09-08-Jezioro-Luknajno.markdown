@@ -12,7 +12,7 @@ markers:
  - name: Gospoda Pod Łabędziem
    lat: 53.797951
    lng: 21.637901
-   symbol: restaurnant
+   symbol: restaurant
  - name: Ryn
    lat: 53.938107
    lng: 21.546264
