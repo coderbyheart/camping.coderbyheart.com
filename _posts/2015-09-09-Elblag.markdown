@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "11. Tag: Elbląg"
+date:   2015-09-09 21:35:00
+categories: polen2015
+geo: 54.152711, 19.394287
+markers:
+ - name: Studnia Smakow
+   lat: 54.160077
+   lng: 19.394382
+   symbol: restaurant
+ - name: E. Leclerc
+   lat: 54.153843
+   lng: 19.420442
+   symbol: grocery
+ - name: Hebewerk
+   lat: 53.997240
+   lng: 19.611140
+   symbol: ferry
+ - name: Hebewerk
+   lat: 53.979501
+   lng: 19.618577
+   symbol: ferry
+ - name: Hebewerk
+   lat: 54.045722
+   lng: 19.559271
+   symbol: ferry
+ - name: Hebewerk
+   lat: 54.033417
+   lng: 19.582481
+   symbol: ferry 
+ - name: Hebewerk
+   lat: 54.018058
+   lng: 19.599318
+   symbol: ferry   
+---
+
+Da dieser Morgen super sonnig war, haben wir ihn noch auf dem Campingplatz bei Harsz verbracht und sind erst Nachmittags
+weiter gefahren, als sich das Wetter wieder verschlechtert hat. Auf dem Weg nach Elbląg, 130km über Landstraßen, zum 
+Teil noch mit Kopfsteinpflaster, hat es dann auch streckenweise ziemlich heftig geschüttet, um sich dann wieder nach ein
+paar Kilometern mit sonnigen Abschnitten abzuwechseln. 
+
+Nach der absoluten Stille in den Masuren sind wir nun wieder auf einem Campingplatz in der Stadt, da müssen wir uns so
+langsam sowieso wieder dran gewöhnen. Der Platz ist sehr klein, aber picko-bello sauber und aktuell nur von Deutschen
+bewohnt. 
+
+Abends sind wir dann in die direkt angrenzenden "Altstadt" von Elbląg galaufen, diese wurde im 2. Weltkrieg total 
+zerstört und erst in den 80igern wieder aufgebaut, entsprechen fühlt man sich fast wie in einer Filmkulisse. Hier haben
+wir uns über Tripadvisor ein Restaurant gesucht, im [Studnia Smakow](http://studniasmakow.pl/) haben wir auf der 
+gehobenen Karte auch ein paar Leckereien gefunden, die leider nicht mit der echten Hausfrauenkosten aus den Masuren
+mithalten kann.
+
+Wir sind dann noch ein Stück durch die Innenstadt gelaufen und haben uns im riesigen E. Leclerc Supermarkt mit Nachtisch
+eingedeckt (Vanillepudding), hier gibt es auch das leckere Komoran Bier.
+
+Für Morgen wollten wir eigentlich auf dem [Mittellandkanal mit dem Schiff fahren](http://www.zegluga.com.pl/), leider fahren die kleinen Boote 
+mit dem berühmten Schiffhebewerken im September nur am Wochenende … daher werden wir uns morgen mal so ein Hebewerk
+per Auto ansehen und dann ans Meer fahren!
