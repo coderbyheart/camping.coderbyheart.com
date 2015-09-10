@@ -29,7 +29,7 @@ als eine Mitarbeiterin quarzend und telefonierend das Tor öffnete. Wir konnten 
 welches anscheinend nicht an diesem Morgen verteilt wurde. Die spannende Begegnung mit diesen bis zu 900kg schweren 
 Riesen kostete uns 8 PLN.
 
-![Wisente in Wolisko](https://pbs.twimg.com/media/COTNCGiVEAAaI1C.jpg)
+![Wisente in Wolisko](https://pbs.twimg.com/media/COTNCGiVEAAaI1C.jpg:orig)
 
 Anschließend liefen wir eine Runde um den Waldsee und konnten im ansonsten menschenleeren Wald noch einem Reh begegnen.
 
@@ -48,7 +48,7 @@ See selbst bist auf ein paar hundert Meter zu Fuß nähern und man hat eine toll
 Wasser &mdash; idyllischer geht es kaum. Für den besseren Ausblick habe ich dann noch einen verwitterten Hochsitz 
 erklommen, ist ja keiner da, der das merkt. 
 
-![Zurück auf dem Campingplatz](https://pbs.twimg.com/media/COTOuWtWEAA9wt5.jpg)
+![Zurück auf dem Campingplatz](https://pbs.twimg.com/media/COTOuWtWEAA9wt5.jpg:orig)
 
 Zurück auf dem Campingplatz lassen wir den Tag gemütlich ausklingen und bald ist es auch schon wieder Zeit für das 
 Abendessen: eingelegter Fisch und Kohlroulade mit Bratkartoffeln, Tomaten- und Gurkensalat, als Nachtisch Naleśniki 
@@ -56,13 +56,13 @@ Abendessen: eingelegter Fisch und Kohlroulade mit Bratkartoffeln, Tomaten- und G
 lecker. (Ja ja, die Superlative sind verteilen wir hier Eimerweise, aber zurecht!) Dazu noch Bier und Vodka, das alles
 für 79 PLN.
 
-![Tomaten- und Gurkensalat](https://pbs.twimg.com/media/COUjXDeUsAAy53c.jpg)
+![Tomaten- und Gurkensalat](https://pbs.twimg.com/media/COUjXDeUsAAy53c.jpg:orig)
 
-![Kohlroulade mit Bratkartoffeln](https://pbs.twimg.com/media/COUjaEbUwAEywfp.jpg)
+![Kohlroulade mit Bratkartoffeln](https://pbs.twimg.com/media/COUjaEbUwAEywfp.jpg:orig)
 
-![Eingelegter Fisch mit Bratkartoffeln](https://pbs.twimg.com/media/COUjcO5UcAAv-8g.jpg)
+![Eingelegter Fisch mit Bratkartoffeln](https://pbs.twimg.com/media/COUjcO5UcAAv-8g.jpg:orig)
 
-![Naleśniki](https://pbs.twimg.com/media/COUjdNDUYAAgTHr.jpg)
+![Naleśniki](https://pbs.twimg.com/media/COUjdNDUYAAgTHr.jpg:orig)
 
 Inzwischen sind wir wieder im Wohnwagen und es regnet wieder, wir bleiben aber noch ein paar Tage. Dieses Essen, das der
 Campingplatz serviert ist das beste Kundenbindungsprogramm.

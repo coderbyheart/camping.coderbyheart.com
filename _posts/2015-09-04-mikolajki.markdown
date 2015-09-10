@@ -34,4 +34,4 @@ aufgeben, die eine polnische Karte hat. Es klappt aber alles und wir haben ein g
  Für Nachtisch ist leider einfach kein Platz. Tanja hat ein sehr leckeres Pflaumenbier
  von einer Brauerei namens [Kormoran](http://browarkormoran.pl/), die gerade ein paar Kilometer entfernt ist.
  
-![Zajazd Wiejski](https://pbs.twimg.com/media/COE0v1HUYAEhTQH.jpg)
+![Zajazd Wiejski](https://pbs.twimg.com/media/COE0v1HUYAEhTQH.jpg:orig)
