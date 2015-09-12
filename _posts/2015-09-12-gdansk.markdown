@@ -1,0 +1,71 @@
+---
+layout: post
+title:  "14. Gdańsk (Danzig)"
+date:   2015-09-12 20:44:00
+categories: polen2015
+geo: 54.152711, 19.394287
+markers:
+ - name: Gdańsk
+   lat: 54.350093
+   lng: 18.650967
+   symbol: town-hall 
+ - name: Pier in Sopot
+   lat: 54.447013
+   lng: 18.573482
+   symbol: town-hall
+ - name: Waffel-Bude
+   lat: 54.444489
+   lng: 18.568003
+   symbol: restaurant
+ - name: Pod Kogutem
+   lat: 54.157920
+   lng: 19.397060
+   symbol: restaurant
+ - name: Wielki Młyn (Große Mühle)
+   lat: 54.354054
+   lng: 18.649976
+   symbol: shop
+ - name: Ulica Długa
+   lat: 54.349081
+   lng: 18.650973
+   symbol: monument
+ - name: Parken
+   symbol: parking
+   lat: 54.346121
+   lng: 18.656136
+ - name: Altstadt / Hafen
+   lat: 54.347869
+   lng: 18.656261
+   symbol: ferry
+---
+
+Der heutige Morgen begrüßt uns grau und es nieselt schon leicht. Daher lassen wir es langsam angehen. Nach dem Frühstück
+fahren [auf Einladung von Jezen](https://twitter.com/jezenthomas/status/639421099894251521) zuerst zu ihm nach Gdynia, 
+einen Ort kurz vor Gdańsk. Dort genießen wir einen Kaffee und holen uns ein paar Tips für den Besuch von Gdańsk ab. Die 
+meiste Zeit geht es aber natürlich um Arbeit; aber damit will ich hier nicht langweilen.
+ 
+Er gibt uns den Tipp uns das
+Monte Carlo der Ostsee, namentlich die Stadt Spopt anzusehen, die sowieso auf dem nach Gdańsk liegt. Dort angekommen
+suchen wir uns einen Parkplatz und begeben uns zuerst auf den längsten Pier Europas (7 PLN / Person), an dessen Ende 
+kann man auch noch einen kleineren Jachthafen bewundern und man hat einen tollen Blick auf den Strand, mit dem riesigen
+Sheraton Hotel. Inwzischen war es auch schon Nachmittag geworden, also war es Zeit für einen kleinen Snack. An einer
+der vielen Buden an der vom Pier in die Stadtmitte verlaufende Promenade haben wir uns dann zwei sehr lecker Waffeln
+(Gofry) genehmigt (16 PLN).  Wir schlendern noch ein wenig durch die Einkaufspassage, die aber nicht viel interessantes
+bietet, außer noch mehr Lody und Gofry (Eis und Waffeln). Wir fahren weiter nach Gdańsk, inzwischen wird der Regen
+stärker.
+
+In Gdańsk parken wir in der Nähe der Stare Miasto (Altstadt) und laufen über die sehr netten Innenstadtkanäle die nur
+touristische genutzt werden (u.a. von einem Piratenschiff und Wassertaxis) durch die sehr pittoresk anmutende Ulica
+Długa, eine Einkaufstraße mit wunderschön restaurierten bzw. wiederaufgebauten Häusern (Gdańsk wurde im 2. Weltkrieg
+praktisch vollständig zerstört). Wir drehen noch eine Runde über die Wielki Młyn (Große Mühle), die außen alt und innen
+ein Einkaufszentrum ist, und kommen dann nach zwei Stunden wieder zum Parkplatz zurück. Leider hat sich das Wetter 
+nicht verbessert und in kalt und feucht ist auch die schönste Stadt nicht besonders ansprechend.
+ 
+Wir fahren zurck nach Elblag und essen Abends im [Pod Kogutem](http://www.podkogutem.elblag.pl/), es giebt als Vorspeise
+Rote-Beete-Suppe mit kleinen Fleisch-Pirogi, Hering im Speckmantel mit Meerettich-Pilz-Gurken-Salat und als Hauptspeise
+Piroge gefüllt mit Kraut und Pilzen sowie geniale Flecki (Kartoffelpuffer) Zigeuner-Art, gefüllt mit Gulasch. Es 
+schmeckt mal wieder fantastisch; für einen Nachtisch sind wir zu satt.
+
+Wieder draußen vor der Tür schlendern wir noch eine Runde über das [10. Elbinger Brotfest](http://www.elbing.pl/tag/brottag-in-elblag/), 
+das an diesem Wochenende statt findet. Für die angebotenen Leckereien haben wir keinen Platz mehr, aber für zu Hause
+nehmen wir etwas Schmalz mit.
