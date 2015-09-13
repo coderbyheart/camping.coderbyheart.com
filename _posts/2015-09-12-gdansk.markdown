@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "14. Gdańsk (Danzig)"
+title:  "14. Tag: Gdańsk (Danzig)"
 date:   2015-09-12 20:44:00
 categories: polen2015
 geo: 54.152711, 19.394287

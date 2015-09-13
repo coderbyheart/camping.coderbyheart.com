@@ -1,0 +1,56 @@
+---
+layout: post
+title:  "15. Tag: Łeba"
+date:   2015-09-12 20:44:00
+categories: polen2015
+geo: 54.761773, 17.565494
+markers:
+ - name: Wanderdüne
+   lat: 54.750351
+   lng: 17.435529
+   symbol: wetland 
+ - name: Parken am Raketenmuseum
+   lat: 54.750241
+   lng: 17.467322
+   symbol: parking
+ - name: Koga
+   lat: 54.760486
+   lng: 17.553562
+   symbol: restaurant
+---
+
+Kurz bevor wir uns heute Morgen auf den Weg an den nächsten Campingplatz an die Ostsee gemacht haben, sind wir noch
+einmal auf das Brotfest in Elbląg gelaufen; gegen 10 Uhr hatten auch schon die ersten Stände wieder auf. Wir haben
+noch ein paar kleine Mitbringsel eingekauft. Am Kanal saßen locker 40 Angler, hier wurde anscheinen ein Angel-Wettbewerb
+ausgetragen. Es war interessant zu sehen mit wieviel Aufwand hier mickrige Fische aus dem Fluß gezogen wurden. Die 
+Herren (und ein paar wenige Frauen) hatten auch anscheinend nicht viel Spaß an der Sache.
+
+![Angler in Elbląg](https://pbs.twimg.com/media/COxQsJeWgAAlBsW.jpg:orig)
+
+Anschließen fuhren wir über ziemlich gut ausgebaute Straßen nach Łeba &mdash; die Ruckeleien der vergangene Tage haben
+erste Opfer gefordert: am Wohnwagen sind zwei der sechs Aufhängungen für unsere unter dem Bode montierten Gestänge-
+Rohre gerissen, diese ließen sich aber einfach mit etwas Spannseil (davon haben wir reichlich dabei) wieder befestigen.
+
+In Łeba auf dem schnuckeligen Campingplatz angekommen sind wir direkt wieder in die Stadt und haben uns in der Bäckerei
+in der Wojska Polskiego mit leckerem Kuchen versorgt. 
+
+![Kuchen](https://pbs.twimg.com/media/COyNJyIWUAEmeyf.jpg:orig)
+
+Frisch gestärkt und nach einem Nickerchen sind wir dann zur berühmten Wanderdüne gefähren, hier parkt man beim 
+[Raketenwerfer-Musuem](http://www.lebskiserwisturystyczny.pl/oferujemy/zwiedzanie-muzeum-wyrzutni-rakiet/) (5 PLN), das 
+auf einem ehemals deutsche Raketen-Testgelände eingerichtet wurde. Von dort sind wir die 5,3 km zur Wanderdüne (Eintritt
+für Nationalpark 12 PLN) gelaufen, auch wenn es schon recht spät und weiterhin recht kühl und bewölkt war. Nach einem 
+strammen Marsch sind wir in etwas über einer Stunde an der Düne angekommen, die man auf abgesperrten Wegen betreten
+darf. Ich fand es dort sehr schön, der lange Fußweg hat sich also gelohnt; da es aber schon recht spät war haben wir 
+uns zurück für 30 PLN mit einem elektrischen Wagen fahren lassen.
+
+Vom Laufen wieder hungrig sind wir dann ins Restaurant Koga, hier hatte Tanja eine klare Brühe mit einer Art Spätzle
+drin (7 PLN), ich eine Fischsuppe (10 PLN). Zum Hauptgang gab es für Tanja gebratenen Lachs (32 PLN) und ich hatte
+Krokyety mit Fisch gefüllt (das sind panierte und frittierte Pfannkuchen). Wie bisher immer wo wir essen waren, einfach
+super. Hier oben gibt es kein Warka, Okacim ist aber auch nicht schlecht. Tanja hatte ein Tyskie mit Sirup.
+
+![Klare Brühe und Fischsuppe](https://pbs.twimg.com/media/COzeItAVEAAWuAf.jpg:orig)
+
+![Gebratener Lachs und Krokyety](https://pbs.twimg.com/media/COzeHoEU8AAVLbd.jpg:orig)
+
+![Bier](https://pbs.twimg.com/media/COzeJouUEAAzqU-.jpg:orig)
