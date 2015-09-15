@@ -4,6 +4,7 @@ title:  "17. Tag: Woliński Park Narodowy"
 date:   2015-09-14 20:56:00
 categories: polen2015
 geo: 53.920588, 14.434693
+track: 2015-09-15-wolinski-park-narodowy.gpx
 markers:
  - name: Netto Supermarkt
    lat: 53.918304

@@ -8,3 +8,5 @@ github_username:  coderbyheart
 
 # Build settings
 markdown: kramdown
+
+include: ['tracks']

@@ -61,6 +61,10 @@ layout: default
         e.layer.closePopup();
       });
 
+      {% if page.track %}
+        omnivore.gpx('{{site.baseurl}}/tracks/{{ page.track }}').addTo(map);
+      {% endif %}
+
     </script>
     {% endif %}
   </article>
