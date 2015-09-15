@@ -4,6 +4,9 @@ title:  "14. Tag: Gdańsk (Danzig)"
 date:   2015-09-12 20:44:00
 categories: polen2015
 geo: 54.152711, 19.394287
+track: 
+ - 2015-09-12-sopot.gpx
+ - 2015-09-12-gdansk.gpx
 markers:
  - name: Gdańsk
    lat: 54.350093
@@ -45,7 +48,7 @@ einen Ort kurz vor Gdańsk. Dort genießen wir einen Kaffee und holen uns ein pa
 meiste Zeit geht es aber natürlich um Arbeit; aber damit will ich hier nicht langweilen.
  
 Er gibt uns den Tipp uns das
-Monte Carlo der Ostsee, namentlich die Stadt Spopt anzusehen, die sowieso auf dem nach Gdańsk liegt. Dort angekommen
+Monte Carlo der Ostsee, namentlich die Stadt Sopot anzusehen, die sowieso auf dem nach Gdańsk liegt. Dort angekommen
 suchen wir uns einen Parkplatz und begeben uns zuerst auf den längsten Pier Europas (7 PLN / Person), an dessen Ende 
 kann man auch noch einen kleineren Jachthafen bewundern und man hat einen tollen Blick auf den Strand, mit dem riesigen
 Sheraton Hotel. Inwzischen war es auch schon Nachmittag geworden, also war es Zeit für einen kleinen Snack. An einer

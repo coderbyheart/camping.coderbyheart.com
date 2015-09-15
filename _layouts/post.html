@@ -62,7 +62,9 @@ layout: default
       });
 
       {% if page.track %}
-        omnivore.gpx('{{site.baseurl}}/tracks/{{ page.track }}').addTo(map);
+        {% for track in page.track %}
+          omnivore.gpx('{{site.baseurl}}/tracks/{{ track }}').addTo(map);
+        {% endfor %}
       {% endif %}
 
     </script>
