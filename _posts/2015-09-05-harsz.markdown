@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "7. Tag: Harsz"
-date:   2015-09-05 20:18:00
+date:   2015-09-05 20:18:00+0200
 categories: polen2015
 geo: 54.143797, 21.754940
 ---

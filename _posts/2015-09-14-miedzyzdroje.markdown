@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "16. Tag: Międzyzdroje"
-date:   2015-09-14 20:56:00
+date:   2015-09-14 20:56:00+0200
 categories: polen2015
 geo: 53.920588, 14.434693
 markers:

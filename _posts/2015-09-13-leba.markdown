@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "15. Tag: Łeba"
-date:   2015-09-12 20:44:00
+date:   2015-09-12 20:44:00+0200
 categories: polen2015
 geo: 54.761773, 17.565494
 track: 2015-09-13-leba.gpx

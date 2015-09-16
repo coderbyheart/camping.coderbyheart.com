@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "12. Tag: Bootfahrt über Land"
-date:   2015-09-10 22:05:00
+date:   2015-09-10 22:05:00+0200
 categories: polen2015
 geo: 54.152711, 19.394287
 markers:

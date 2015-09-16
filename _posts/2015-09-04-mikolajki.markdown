@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "6. Tag: Mikołajki"
-date:   2015-09-04 20:48:00
+date:   2015-09-04 20:48:00+0200
 categories: polen2015
 geo: 53.766479, 21.847875
 markers:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "9. Tag: Bis zur russischen Grenze"
-date:   2015-09-07 20:15:00
+date:   2015-09-07 20:15:00+0200
 categories: polen2015
 geo: 54.143797, 21.754940
 markers:

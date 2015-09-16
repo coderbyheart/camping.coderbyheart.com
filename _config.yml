@@ -5,6 +5,7 @@ baseurl: "/camping.cto.hiv" # the subpath of your site, e.g. /blog/
 url: "https://coderbyheart.github.io"
 twitter_username: coderbyheart
 github_username:  coderbyheart
+timezone: Europe/Berlin
 
 # Build settings
 markdown: kramdown

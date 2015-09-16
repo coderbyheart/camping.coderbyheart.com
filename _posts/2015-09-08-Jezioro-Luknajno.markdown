@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "10. Tag: Jezioro Łuknajno"
-date:   2015-09-08 21:48:00
+date:   2015-09-08 21:48:00+0200
 categories: polen2015
 geo: 54.143797, 21.754940
 markers:
