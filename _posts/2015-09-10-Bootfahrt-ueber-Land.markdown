@@ -4,6 +4,7 @@ title:  "12. Tag: Bootfahrt über Land"
 date:   2015-09-10 22:05:00+0200
 categories: polen2015
 geo: 54.152711, 19.394287
+track: 2015-09-10-Bootfahrt-ueber-Land.gpx
 markers:
  - name: E. Leclerc
    lat: 54.153843

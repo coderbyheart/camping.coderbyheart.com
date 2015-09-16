@@ -4,6 +4,7 @@ title:  "13. Tag: Bis ans Ende der EU"
 date:   2015-09-11 21:25:00+0200
 categories: polen2015
 geo: 54.152711, 19.394287
+track: 2015-09-11-Bis-ans-Ende-der-EU.gpx
 markers:
  - name: Nowa Karczma
    lat: 54.430348

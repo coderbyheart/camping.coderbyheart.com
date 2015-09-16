@@ -4,6 +4,9 @@ title:  "10. Tag: Jezioro Łuknajno"
 date:   2015-09-08 21:48:00+0200
 categories: polen2015
 geo: 54.143797, 21.754940
+track:
+ - 2015-09-08-Jezioro-Luknajno-1.gpx
+ - 2015-09-08-Jezioro-Luknajno-2.gpx
 markers:
  - name: Jezioro Łuknajno (Vogelschutz-Reservat)
    lat: 53.813381
