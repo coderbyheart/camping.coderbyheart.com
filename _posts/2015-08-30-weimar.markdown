@@ -4,6 +4,7 @@ title:  "1. Tag: Weimar"
 date:   2015-08-30 18:51:01+0200
 categories: polen2015
 geo: 51.035579, 11.287406
+track: 2015-08-30-weimar.gpx
 markers:
  - name: tara
    lat: 50.979766

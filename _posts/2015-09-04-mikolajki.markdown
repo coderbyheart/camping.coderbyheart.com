@@ -4,6 +4,7 @@ title:  "6. Tag: Mikołajki"
 date:   2015-09-04 20:48:00+0200
 categories: polen2015
 geo: 53.766479, 21.847875
+track: 2015-09-04-mikolajki.gpx
 markers:
  - name: Mikołajki
    lat: 53.801007

@@ -4,6 +4,10 @@ title:  "9. Tag: Bis zur russischen Grenze"
 date:   2015-09-07 20:15:00+0200
 categories: polen2015
 geo: 54.143797, 21.754940
+track:
+ - 2015-09-07-bis-zur-russische-grenze-1.gpx
+ - 2015-09-07-bis-zur-russische-grenze-2.gpx
+ - 2015-09-07-bis-zur-russische-grenze-3.gpx
 markers:
  - name: Wolisko (Waldsee)
    lat: 54.098928 

@@ -4,6 +4,7 @@ title:  "3. Tag: Kraków (Krakau)"
 date:   2015-09-01 20:11:00+0200
 categories: polen2015
 geo: 50.046799, 19.880610
+track: 2015-09-01-krakow.gpx
 markers:
  - name: Kraków (Krakau)
    lat: 50.061286
