@@ -14,7 +14,7 @@ markers:
  - name: Laternia Morska
    lat: 53.915947
    lng: 14.284328
-   symbol: monument
+   symbol: lighthouse
  - name: Laternia Morska Parking
    lat: 53.916294
    lng: 14.284144
