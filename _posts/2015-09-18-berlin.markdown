@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "20. Tag: Berlin"
+date:   2015-09-18 21:20:00+0200
+categories: polen2015
+geo: 52.385745, 13.780292
+markers:
+ - name: Netto Supermarkt
+   lat: 53.918304
+   lng: 14.436457
+   symbol: grocery
+ - name: Madhu
+   lat: 52.301174
+   lng: 13.626057
+   symbol: restaurant
+ - name: A10 Einkaufszentrum
+   symbol: shop
+   lat: 52.313914
+   lng: 13.608255
+---
+
+![Zurück nach Deutschland](https://pbs.twimg.com/media/CPK40TaUAAAuEHu.jpg:orig)
+
+Heute geht es zurück nach Deutschland. Vorher kaufen wir aber im Supermarkt noch gut 6kg Pflaumen für 2,69 PLN
+das Kilo, um am Sonntag Kuchen zu backen und Pflaumenmus zu machen.
+
+![Pflaumen](https://pbs.twimg.com/media/CPR0kThXAAA96On.jpg:orig)
+
+Dann geht es ohne weitere Vorkommnisse bis nach Berlin. Dort auf dem Campingplatz erwartet uns deutscher Charme:
+alles ist abgeschlossen und heißes Wasser kostet sogar an der Spüle Geld. Die Anmeldung an der Rezeption erfolgt
+um zwei Minuten nach der Mittagspause und daher bekommen wir einen Platz zugewiesen &mdash; der Zusammenhang 
+erschließt sich mir nicht. Der Platz selbst ist technisch gut und sauber, die Lage direkt an der Autobahn würde 
+ich aber nicht nochmal wählen. Mit 18,50 € ist er aber recht günstig.
+
+![Besuch in Berlin](https://pbs.twimg.com/media/CPMBw1ZWoAEh4Er.jpg:orig)
+
+Wir sind gegen 13 Uhr angekommen und wollen nach Berlin rein, um dort zwei Termin wahr zu nehmen. Vorher essen wir
+sehr lecker indisch im Madhu in Königs Wusterhausen, bevor wir von dort mit der S-Bahn nach Wilmersdorf bzw. Kreuzberg
+aufbrechen. 
+
+Auch heute lässt mich das Telefon nicht in Ruhe und so gilt es in der Berliner U-Bahn wieder, erreichbar zu sein und
+die Wogen zu glätten …
+ 
+Nach den Teminen fahren wir auf dem Rückweg zum Campingplatz zum riesigen 
+[Einkaufszentrum A10](http://www.a10center.de/) eigentlich nur, um dort im real einzukaufen. Zufällig findet sich dort
+auch die erste Filiale von [Frozen Joe](http://www.frozen-joe.de/), bekannt aus der ZDF Serie *[Rach und die 
+Restaurantgründer](http://www.zdf.de/rach-und-die-restaurantgruender/die-gruender-der-restaurants-frozen-joe-&-kokku-im-portraet-38073400.html)*
+ &mdash; und so müssen wir natürlich das Angebot nutzen &mdash; sehr lecker!
+ 
+![A10 Einkaufszentrum mit Frozen Joe](https://pbs.twimg.com/media/CPNJxK4WEAAW2wX.jpg:orig)
+ 
+Vom Inder und vom Eis recht satt, gibt es nur ein kleines kaltes Abendessen Brot, Wurst, Schmalz, Salat und Butter 
+(alles polnisch natürlich).
