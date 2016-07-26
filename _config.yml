@@ -1,7 +1,7 @@
 title: Markus und Tanja bloggen über ihren Camping-Urlaub
-email: m@cto.hiv
+email: m@coderbyheart.com
 description: > # Markus und Tanja bloggen über ihren Camping-Urlaub
-baseurl: "/camping.cto.hiv" # the subpath of your site, e.g. /blog/
+baseurl: "/camping.coderbyheart.com" # the subpath of your site, e.g. /blog/
 url: "https://coderbyheart.github.io"
 twitter_username: coderbyheart
 github_username:  coderbyheart
